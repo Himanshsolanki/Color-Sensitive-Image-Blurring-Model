@@ -1,4 +1,4 @@
-# 🧠 Image Blurring using Convolution (PyTorch)
+# 🧠 Image Blurring using Convolution (PyTorch) - // in progress
 
 This project demonstrates how to perform **image blurring using convolution** in **PyTorch**, starting from raw image loading to applying a custom kernel and visualizing the result.
 
