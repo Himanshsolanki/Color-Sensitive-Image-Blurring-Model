@@ -21,3 +21,5 @@ It detects a chosen color and blurs only those areas while keeping the rest of t
 ## Output
 
 The selected color region appears blurred while other parts remain clear.
+
+![Result](output.png)
